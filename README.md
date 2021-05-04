@@ -13,4 +13,6 @@ Python | Java | C | C++ | Haskell | Prolog | SQL
 -------------------
 Git | Linux | Agile Development | Kanban | Scrum | UML | MySQL | Vim
 
-<-- ![Alt Text](insert gif link) -->
+<p align="center">
+  <img src="https://github.com/b4ba/b4ba/blob/a90209b77866b0f65c1e3d28414375e109344537/code.gif" width="450" height="400"/>
+</p>
