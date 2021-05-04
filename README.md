@@ -12,3 +12,5 @@ Python | Java | C | C++ | Haskell | Prolog | SQL
 🧠 Technical Skills
 -------------------
 Git | Linux | Agile Development | Kanban | Scrum | UML | MySQL | Vim
+
+<-- ![Alt Text](insert gif link) -->
