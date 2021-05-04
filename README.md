@@ -13,6 +13,8 @@ Python | Java | C | C++ | Haskell | Prolog | SQL
 -------------------
 Git | Linux | Agile Development | Kanban | Scrum | UML | MySQL | Vim
 
-<p align="center">
-  <img src="https://github.com/b4ba/b4ba/blob/a90209b77866b0f65c1e3d28414375e109344537/code.gif" width="450" height="400"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b4ba&show_icons=true&theme=radical)
+
+<p float="right">
+  <img src="https://github.com/b4ba/b4ba/blob/a90209b77866b0f65c1e3d28414375e109344537/code.gif" width="350" height="300"/>
 </p>
