@@ -1,7 +1,7 @@
 Hi there, I'm Alex! 👋
 ==================
 
-I'm a third-year [Computer Science undergraduate](https://www.exeter.ac.uk/undergraduate/courses/computerscience/comsci/) at the University of Exeter 🎓.
+I'm a Masters student [Cyber Security Privacy and Trust MSc](https://www.ed.ac.uk/informatics/postgraduate/msc/cspt) at the University of Edinburgh 🎓.
 
 If you'd like to contact me, feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/alex-babalitis/)
 
