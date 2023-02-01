@@ -17,8 +17,8 @@ Git | Linux | Agile Development | Kanban | Scrum | UML | MySQL | Vim
 <!-- | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=b4ba&show_icons=true&theme=radical) | <img src="https://github.com/b4ba/b4ba/blob/a90209b77866b0f65c1e3d28414375e109344537/code.gif" width="350" height="300"/> |
 | ------------- | ------------- | -->
 
-<p align="center">
+<!-- <p align="center">
   <kbd>
     <img src="https://github.com/b4ba/b4ba/blob/a90209b77866b0f65c1e3d28414375e109344537/code.gif" width="350" height="300"/>
   </kbd>
-</p>
+</p> -->
