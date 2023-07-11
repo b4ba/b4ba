@@ -5,6 +5,8 @@ I'm a Masters student [Cyber Security Privacy and Trust MSc](https://www.ed.ac.u
 
 If you'd like to contact me, feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/alex-babalitis/)
 
+
+## Skills
 <table>
   <tr>
     <th>💻 Languages</th>
