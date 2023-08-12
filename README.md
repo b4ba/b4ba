@@ -11,7 +11,7 @@ If you'd like to contact me, feel free to connect with me on [LinkedIn!](https:/
   <tr>
     <th>💻 Languages</th>
     </p>
-    <td>Python, Java, C++, C, JavaScript, Go, SQL</td>
+    <td>Python, Java, C++, C, JavaScript, Go, Dart, SQL</td>
   </tr>
   <tr>
     <th>🧠 Technologies</th>
