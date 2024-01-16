@@ -1,7 +1,7 @@
 Hi there, I'm Alex! 👋
 ==================
 
-I'm a Masters student [Cyber Security Privacy and Trust MSc](https://www.ed.ac.uk/informatics/postgraduate/msc/cspt) at the University of Edinburgh 🎓.
+I have an MSc in [Cyber Security Privacy and Trust](https://www.ed.ac.uk/informatics/postgraduate/msc/cspt) from the University of Edinburgh and a BSc in [Computer Science](https://www.exeter.ac.uk/study/undergraduate/courses/computerscience/comsci/) from the University of Exeter 🎓.
 
 If you'd like to contact me, feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/alex-babalitis/)
 
