@@ -5,7 +5,7 @@ I have an MSc in [Cyber Security Privacy and Trust](https://www.ed.ac.uk/informa
 
 If you'd like to contact me, feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/alex-babalitis/)
 
-
+<!--
 ## Skills
 <table>
   <tr>
@@ -24,7 +24,7 @@ If you'd like to contact me, feel free to connect with me on [LinkedIn!](https:/
   </tr>
 </table>
 
-<!-- 💻 Programming Languages
+ 💻 Programming Languages
 ---------------------
 Python | Java | JavaScript | C | C++ | Haskell | Prolog | Go | SQL
 
